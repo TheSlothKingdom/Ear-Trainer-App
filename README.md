@@ -9,16 +9,24 @@ The library will have all of the scales listed out and allow the user to hear th
 
 ## Class
 
-
+- Saves the questions
+- store correct answers
+- display wrong answers 
 
 ## Methods
 
-
+- play question
+- load questions
+  - returns a list of questions or take an item off
+- save results 
 
 ## Features 
 
 - Master Loop
+  - User can retry the test or exit
+- Visualize
+  - playing the sound files 
 - Dictionary 
   - To store the questions and the scales
-- uploads the quiz results to a log
-- Visualize the data for quiz results
+- File I/O
+  - logs the results of the quiz 
