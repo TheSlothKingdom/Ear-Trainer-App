@@ -6,4 +6,8 @@
     <RootNamespace>Ear_Trainer_App</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NetCoreAudio" Version="1.6.3" />
+  </ItemGroup>
+
 </Project>
